@@ -1,0 +1,41 @@
+html {
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Lucida Grande','Lucida Sans Unicode',Geneva,Helvetica,Arial,Verdana,sans-serif;
+    color: #4d4d4d;
+    margin: 20px auto;
+    padding: 20px 35px;
+    background-color: #fff;
+    border: 1px solid #CCCCCC;
+    box-shadow: 3px 3px 5px #999999;
+    min-height: 80%;
+    width: 840px;
+}
+
+div {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.btn-flat {
+    display: inline-block;
+    padding: 8px 15px;
+    outline: 0 none;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #2fa5dd;
+    text-align: center;
+    cursor: pointer;
+}
+
+code {
+    padding: 2px 4px;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
